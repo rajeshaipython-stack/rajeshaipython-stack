@@ -30,7 +30,6 @@ Building AI, Automation and Intelligent Systems 🚀
 
 - R Revolution
 - R Assistant
-- ADR 21
 - AI Agents
 
 ---

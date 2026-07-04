@@ -10,34 +10,69 @@ Building AI, Automation and Intelligent Systems 🚀
 
 - 🤖 AI Engineer
 - 🚀 Founder of R Revolution
-- 🧠 Building R Assistant
+- 🧠 Building R Assistant Ecosystem
 - 🌱 Learning Advanced AI Engineering
+- ⚡ Passionate about AI, Automation & Full Stack Development
+
+---
+
+## 🚀 Current Focus
+
+- 🧠 R Assistant
+- 🚀 R Revolution
+- 🤖 AI Agents
+- ⚡ GenAI Applications
+- 🌐 Full Stack Projects
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages
 - Python
-- FastAPI
-- React
+- JavaScript
+- TypeScript
+
+### AI & ML
 - GenAI
+- AI Agents
+- Machine Learning
+- Deep Learning
+
+### Backend
+- FastAPI
+- Flask
+- Node.js
+
+### Frontend
+- React
+- Next.js
+- HTML
+- CSS
+
+### Tools
 - Docker
+- Git
 - GitHub
+- Firebase
+- Vercel
 
 ---
 
 ## 🚀 Projects
 
-- R Revolution
-- R Assistant
-- AI Agents
+- 🚀 R Revolution
+- 🤖 R Assistant
+- 🧠 AI Agents
+- ⚡ Automation Systems
+- 🌐 Full Stack Applications
 
 ---
 
-⭐ Building the Future with AI
+## 📫 Connect
 
-## 📊 GitHub Stats
+- GitHub: https://github.com/rajeshaipython-stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeshaipython-stack&show_icons=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshaipython-stack&layout=compact)
+⭐ Building the Future with AI & Automation
